@@ -150,6 +150,3 @@ Add dashboard screenshot here:
 ## Author
 
 Rishabh Manesh
-
-B.Com Applied Finance & Analytics  
-Christ University
