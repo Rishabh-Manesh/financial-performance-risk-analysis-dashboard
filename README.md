@@ -126,16 +126,6 @@ Finance_Project_1/
 
 ---
 
-## Dashboard Preview
-
-Add dashboard screenshot here:
-
-```markdown
-![Dashboard](dashboard/dashboard.png)
-```
-
----
-
 ## Future Improvements
 
 - Portfolio optimization analysis
